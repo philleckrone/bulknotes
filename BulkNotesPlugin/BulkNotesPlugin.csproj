@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props"
+          Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1530EFCB-1518-434E-8448-A5B9A6105C9C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>BulkNotes</RootNamespace>
+    <AssemblyName>BulkNotesPlugin</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <Deterministic>true</Deterministic>
+    <LangVersion>5</LangVersion>
+    <!-- Paratext install folder: the plugin compiles against its PluginInterfaces (2.0.100 on 9.5). -->
+    <ParatextInstallDir Condition=" '$(ParatextInstallDir)' == '' ">C:\Program Files\Paratext 9\</ParatextInstallDir>
+    <!-- Without a .NET 4.8 targeting pack, following PluginInterfaces' netstandard dependencies
+         copies mscorlib.dll and friends into bin. All references come from Paratext or .NET. -->
+    <_FindDependencies>false</_FindDependencies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <!-- PluginInterfaces is built on .NET Standard 2.0. -->
+    <!-- Resolved from the GAC (no HintPath): a HintPath into the Framework folder made MSBuild copy mscorlib.dll locally. -->
+    <Reference Include="netstandard">
+      <Private>False</Private>
+    </Reference>
+    <!-- Provided by Paratext at run time: never copied into the plugin folder. -->
+    <Reference Include="PluginInterfaces">
+      <HintPath>$(ParatextInstallDir)PluginInterfaces.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="CorePluginInterfaces">
+      <HintPath>$(ParatextInstallDir)CorePluginInterfaces.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Model.cs" />
+    <Compile Include="BulkNotesForm.cs" />
+    <Compile Include="BulkNotesPlugin.cs" />
+    <Compile Include="BulkRunner.cs" />
+    <Compile Include="NoteFilter.cs" />
+    <Compile Include="NoteReader.cs" />
+    <Compile Include="ProjectChooserForm.cs" />
+    <Compile Include="NotesFiles.cs" />
+    <Compile Include="ProjectFolder.cs" />
+    <Compile Include="ProjectUsers.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="Strings.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

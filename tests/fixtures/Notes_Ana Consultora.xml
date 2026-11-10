@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommentList>
+  <Comment Thread="bn01" User="Ana Consultora" VerseRef="MRK 2:1" Language="es" Date="2026-09-01T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Revisar "Capernaúm".</p>
+    </Contents>
+  </Comment>
+  <Comment Thread="bn02" User="Ana Consultora" VerseRef="MRK 2:3" Language="es" Date="2026-09-05T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <AssignedUser>Luis Revisor</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>¿Cuatro hombres o cuatro amigos?</p>
+    </Contents>
+    <TagAdded>2</TagAdded>
+  </Comment>
+  <Comment Thread="bn03" User="Ana Consultora" VerseRef="MRK 2:5" Language="es" Date="2026-10-01T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>done</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents />
+  </Comment>
+  <Comment Thread="bn04" User="Ana Consultora" VerseRef="MRK 2:5" Language="es" Date="2026-10-15T09:00:00.0000000-05:00">
+    <SelectedText>hijo</SelectedText>
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <AssignedUser>Team</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Todo el equipo: ¿"hijo" o "amigo"?</p>
+    </Contents>
+    <TagAdded>3</TagAdded>
+    <TagAdded>2</TagAdded>
+  </Comment>
+  <Comment Thread="bn06" User="Ana Consultora" VerseRef="MRK 2:14" Language="es" Date="2026-08-01T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <AssignedUser>Luis Revisor</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Leví, hijo de Alfeo: ¿ortografía?</p>
+    </Contents>
+    <TagAdded>2</TagAdded>
+  </Comment>
+  <Comment Thread="bn06" User="Ana Consultora" VerseRef="MRK 2:14" Language="es" Date="2026-08-05T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status></Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <AssignedUser />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Lo reviso yo.</p>
+    </Contents>
+    <TagAdded>3</TagAdded>
+    <TagRemoved>2</TagRemoved>
+  </Comment>
+  <Comment Thread="bn08" User="Ana Consultora" VerseRef="MRK 1:1" Language="es" Date="2026-10-30T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Título del libro.</p>
+    </Contents>
+  </Comment>
+  <Comment Thread="bn09" User="Ana Consultora" VerseRef="MRK 2:1" Language="es" Date="2026-09-03T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Nota borrada.</p>
+    </Contents>
+  </Comment>
+  <Comment Thread="bn09" User="Ana Consultora" VerseRef="MRK 2:1" Language="es" Date="2026-09-04T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>deleted</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents />
+  </Comment>
+  <Comment Thread="bn10" User="Ana Consultora" VerseRef="MRK 2:20" Language="es" Date="2026-07-01T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Días de ayuno.</p>
+    </Contents>
+  </Comment>
+  <Comment Thread="bn11" User="Ana Consultora" VerseRef="GEN 1:1" Language="es" Date="2026-06-01T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Principio.</p>
+    </Contents>
+  </Comment>
+  <Comment Thread="FIX_palabra" User="Ana Consultora" VerseRef="ACT 2:10" Language="es" Date="2026-06-22T09:00:00.0000000-05:00">
+    <SelectedText>palabra</SelectedText>
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status></Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Revisar la ortografía.</p>
+    </Contents>
+    <TagAdded>-2</TagAdded>
+  </Comment>
+  <Comment Thread="bn16" User="Ana Consultora" VerseRef="ACT 2:15" Language="es" Date="2026-06-26T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>done</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents />
+  </Comment>
+</CommentList>

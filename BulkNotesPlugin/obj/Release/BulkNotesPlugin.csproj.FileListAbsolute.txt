@@ -1,0 +1,5 @@
+C:\ClaudeCode Projects\Bulk_Notes\BulkNotesPlugin\bin\Release\BulkNotesPlugin.dll
+C:\ClaudeCode Projects\Bulk_Notes\BulkNotesPlugin\bin\Release\BulkNotesPlugin.pdb
+C:\ClaudeCode Projects\Bulk_Notes\BulkNotesPlugin\obj\Release\BulkNotesPlugin.csprojResolveAssemblyReference.cache
+C:\ClaudeCode Projects\Bulk_Notes\BulkNotesPlugin\obj\Release\BulkNotesPlugin.dll
+C:\ClaudeCode Projects\Bulk_Notes\BulkNotesPlugin\obj\Release\BulkNotesPlugin.pdb

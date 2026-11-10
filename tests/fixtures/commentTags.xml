@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TagList>
+  <Tag Id="1" Name="To Do" Icon="01flag1" CreatorResolve="false" />
+  <Tag Id="2" Name="Preguntas" Icon="01flag1" CreatorResolve="false" />
+  <Tag Id="3" Name="Claridad" Icon="01flag1" CreatorResolve="false" />
+  <LastUsedID>3</LastUsedID>
+</TagList>

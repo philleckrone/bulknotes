@@ -1,0 +1,434 @@
+{
+  "cues": "{1} before a phrase shows box 1 of the step from there on, {0,2} boxes 0 and 2, {} none; the pointer goes on the first box named. Cues are not spoken or shown.",
+  "comment": "Revisado en la reunión del equipo.",
+  "youtube": {
+    "en": {
+      "about": "Bulk Note Editing is a free Paratext 9 plugin that lists the notes of one or more projects and resolves, assigns or marks as read many of them at once. Choose a verse, a chapter, a book or the whole project, then narrow the list by status, read or unread, author, assigned person, date, words or tag (including conflict notes). Tick the notes you want, then resolve them, with an optional comment, assign them to a team member, or mark them as read or unread. The tool never deletes a note: every change is a new comment, so each note's history stays complete.",
+      "download": "Download Install_Phils_tools.exe from the Paratext Plugins folder, and tick Bulk Note Editing in it:",
+      "link": "https://short.do/HgUb7T",
+      "credits": [
+        "Created with Claude AI.",
+        "Narration: AI-generated voice (Microsoft Azure AI Speech, voice \"Jenny\").",
+        "Music from Free To Use",
+        "Source: https://freetouse.com/music",
+        "Coconut Kind of Love by Aetheric"
+      ]
+    },
+    "es": {
+      "about": "Edición de notas en lote es un complemento gratuito para Paratext 9 que muestra las notas de uno o varios proyectos y resuelve, asigna o marca como leídas muchas de ellas a la vez. Elija un versículo, un capítulo, un libro o el proyecto entero, y reduzca la lista por estado, leídas o no, autor, persona asignada, fecha, palabras o etiqueta (incluidas las notas de conflicto). Marque las notas que quiere y resuélvalas, con un comentario opcional, asígnelas a un miembro del equipo, o márquelas como leídas o no leídas. La herramienta nunca borra una nota: cada cambio es un comentario nuevo, así que la historia de cada nota queda completa.",
+      "download": "Descargue Install_Phils_tools.exe de la carpeta Paratext Plugins y marque Edición de notas en lote:",
+      "link": "https://short.do/HgUb7T",
+      "credits": [
+        "Creado con Claude AI.",
+        "Narración: voz generada por IA (Microsoft Azure AI Speech, voz \"Jorge\").",
+        "Music from Free To Use",
+        "Source: https://freetouse.com/music",
+        "Coconut Kind of Love by Aetheric"
+      ]
+    },
+    "fr": {
+      "about": "Modification de notes en lot est un module gratuit pour Paratext 9 qui affiche les notes d'un ou de plusieurs projets et en résout, attribue ou marque comme lues un grand nombre en une fois. Choisissez un verset, un chapitre, un livre ou le projet entier, puis réduisez la liste par statut, lues ou non, auteur, personne attribuée, date, mots ou étiquette (y compris les notes de conflit). Cochez les notes voulues, puis résolvez-les, avec un commentaire facultatif, attribuez-les à un membre de l'équipe, ou marquez-les comme lues ou non lues. L'outil ne supprime jamais une note : chaque modification est un nouveau commentaire, donc l'historique de chaque note reste complet.",
+      "download": "Téléchargez Install_Phils_tools.exe depuis le dossier Paratext Plugins et cochez Modification de notes en lot :",
+      "link": "https://short.do/HgUb7T",
+      "credits": [
+        "Créé avec Claude AI.",
+        "Narration : voix générée par IA (Microsoft Azure AI Speech, voix « Rémy »).",
+        "Music from Free To Use",
+        "Source: https://freetouse.com/music",
+        "Coconut Kind of Love by Aetheric"
+      ]
+    }
+  },
+  "steps": [
+    {
+      "id": "title",
+      "en": {
+        "title": "Bulk Note Editing",
+        "sub": "A Paratext tool: resolve or assign many notes at once",
+        "text": "Bulk Note Editing is a Paratext tool. It lists the notes of one or more projects, lets you narrow the list with filters, and resolves, assigns or marks as read[red] the notes you tick, all at once."
+      },
+      "es": {
+        "title": "Edición de notas en lote",
+        "sub": "Un complemento de Paratext: resolver o asignar muchas notas a la vez",
+        "text": "Edición de notas en lote es un complemento de Paratext. Muestra las notas de uno o varios proyectos, permite reducir la lista con filtros, y resuelve, asigna o marca como leídas de una vez las notas que usted marque."
+      },
+      "fr": {
+        "title": "Modification de notes en lot",
+        "sub": "Un outil Paratext : résoudre ou attribuer de nombreuses notes à la fois",
+        "text": "Modification de notes en lot est un outil de Paratext. Il affiche les notes d'un ou de plusieurs projets, permet de réduire la liste avec des filtres, et résout, attribue ou marque comme lues en une fois les notes que vous cochez."
+      }
+    },
+    {
+      "id": "s00_menu",
+      "en": {
+        "title": "Open it from the Tools menu",
+        "text": "In Paratext, choose {0}Tools, then {1}Bulk Note Editing.",
+        "q": "How do I open Bulk Note Editing?"
+      },
+      "es": {
+        "title": "Se abre desde el menú Herramientas",
+        "text": "En Paratext, elija {0}Herramientas y luego {1}Edición de notas en lote.",
+        "q": "¿Cómo abro Edición de notas en lote?"
+      },
+      "fr": {
+        "title": "Ouvrez-le depuis le menu Outils",
+        "text": "Dans Paratext, choisissez {0}Outils, puis {1}Modification de notes en lot.",
+        "q": "Comment ouvrir Modification de notes en lot ?"
+      }
+    },
+    {
+      "id": "s01_open",
+      "en": {
+        "title": "It opens at your chapter",
+        "text": "The window opens at {0}the chapter you are working on in Paratext: here, Mark chapter 2, {1}with five unresolved notes."
+      },
+      "es": {
+        "title": "Se abre en su capítulo",
+        "text": "La ventana se abre en {0}el capítulo en el que usted trabaja en Paratext: aquí, Marcos capítulo 2, {1}con cinco notas sin resolver."
+      },
+      "fr": {
+        "title": "Il s'ouvre à votre chapitre",
+        "text": "La fenêtre s'ouvre {0}au chapitre sur lequel vous travaillez dans Paratext : ici, Marc chapitre 2, {1}avec cinq notes non résolues."
+      }
+    },
+    {
+      "id": "s01b_projects",
+      "en": {
+        "title": "Notes of several projects",
+        "text": "{0}The Projects button chooses whose notes to list. {1}Tick another project, here TST2, {2}then click OK.",
+        "q": "How do I list the notes of several projects at once?"
+      },
+      "es": {
+        "title": "Notas de varios proyectos",
+        "text": "{0}El botón Proyectos elige de qué proyectos se muestran las notas. {1}Marque otro proyecto, aquí TST2, {2}y haga clic en Aceptar.",
+        "q": "¿Cómo muestro las notas de varios proyectos a la vez?"
+      },
+      "fr": {
+        "title": "Les notes de plusieurs projets",
+        "text": "{0}Le bouton Projets choisit les projets dont les notes sont affichées. {1}Cochez un autre projet, ici TST2, {2}puis cliquez sur OK.",
+        "q": "Comment afficher les notes de plusieurs projets à la fois ?"
+      }
+    },
+    {
+      "id": "s01c_two",
+      "en": {
+        "title": "Both projects in one list",
+        "text": "{0}Now both projects are ticked, {2}and their notes are listed together. {1}The Project column shows which project each note is in. Resolving and assigning work in every project ticked, and a person is only assigned notes in projects where they are still active."
+      },
+      "es": {
+        "title": "Los dos proyectos en una lista",
+        "text": "{0}Ahora los dos proyectos están marcados, {2}y sus notas se muestran juntas. {1}La columna Proyecto indica en qué proyecto está cada nota. Resolver y asignar funcionan en cada proyecto marcado, y una persona solo recibe notas en los proyectos donde sigue activa."
+      },
+      "fr": {
+        "title": "Les deux projets dans une liste",
+        "text": "{0}Les deux projets sont maintenant cochés, {2}et leurs notes sont affichées ensemble. {1}La colonne Projet indique dans quel projet se trouve chaque note. Résoudre et attribuer fonctionnent dans chaque projet coché, et une personne ne reçoit des notes que dans les projets où elle est encore active."
+      }
+    },
+    {
+      "id": "s02_scope",
+      "en": {
+        "title": "Choose what to list",
+        "text": "{0}The Show box chooses how much to list: one verse, one chapter, the whole book, or the whole project. {0,1}Here we list the whole book of Mark.",
+        "q": "How do I list the notes of a verse, a chapter, a book or the whole project?"
+      },
+      "es": {
+        "title": "Elija qué mostrar",
+        "text": "{0}La casilla Mostrar elige cuánto se muestra: un versículo, un capítulo, el libro entero o el proyecto entero. {0,1}Aquí mostramos el libro entero de Marcos.",
+        "q": "¿Cómo muestro las notas de un versículo, un capítulo, un libro o todo el proyecto?"
+      },
+      "fr": {
+        "title": "Choisissez quoi afficher",
+        "text": "{0}La liste Afficher choisit l'étendue : un verset, un chapitre, le livre entier ou le projet entier. {0,1}Ici, nous affichons le livre entier de Marc.",
+        "q": "Comment afficher les notes d'un verset, d'un chapitre, d'un livre ou de tout le projet ?"
+      }
+    },
+    {
+      "id": "s03_colours",
+      "en": {
+        "title": "Colours and bold",
+        "text": "Now the whole project, with resolved notes too. {0}Resolved notes are green. {1}Wordlist and Biblical Terms notes are yellow. {2}An unresolved conflict note is red. {3}Notes you have not read yet are in bold. {0,1,2,3}The key below the list explains it all.",
+        "q": "What do the row colours and bold rows mean?"
+      },
+      "es": {
+        "title": "Colores y negrita",
+        "text": "Ahora el proyecto entero, también con las notas resueltas. {0}Las notas resueltas son verdes. {1}Las notas de la lista de palabras y de términos bíblicos son amarillas. {2}Una nota de conflicto sin resolver es roja. {3}Las notas que usted aún no ha leído están en negrita. {0,1,2,3}La leyenda debajo de la lista lo explica todo.",
+        "q": "¿Qué significan los colores y la negrita de las filas?"
+      },
+      "fr": {
+        "title": "Couleurs et gras",
+        "text": "Voici maintenant le projet entier, avec aussi les notes résolues. {0}Les notes résolues sont vertes. {1}Les notes de la liste de mots et des termes bibliques sont jaunes. {2}Une note de conflit non résolue est rouge. {3}Les notes que vous n'avez pas encore lues sont en gras. {0,1,2,3}La légende sous la liste explique tout cela.",
+        "q": "Que signifient les couleurs et le gras des lignes ?"
+      }
+    },
+    {
+      "id": "s03b_read",
+      "en": {
+        "title": "Find the notes you have not read",
+        "text": "{0}The Read[Red] filter lists only the notes you have not read, or only those you have. {1}With Status set to Resolved, {2}it finds the notes that were resolved before you read them.",
+        "q": "How do I find notes I have not read yet?"
+      },
+      "es": {
+        "title": "Encontrar las notas no leídas",
+        "text": "{0}El filtro Leídas muestra solo las notas que usted no ha leído, o solo las que ya leyó. {1}Con Estado en Resueltas, {2}encuentra las notas que se resolvieron antes de que usted las leyera.",
+        "q": "¿Cómo encuentro las notas que aún no he leído?"
+      },
+      "fr": {
+        "title": "Trouver les notes non lues",
+        "text": "{0}Le filtre Lues n'affiche que les notes que vous n'avez pas lues, ou seulement celles que vous avez lues. {1}Avec le statut Résolues, {2}il trouve les notes qui ont été résolues avant que vous les lisiez.",
+        "q": "Comment trouver les notes que je n'ai pas encore lues ?"
+      }
+    },
+    {
+      "id": "s03c_markread",
+      "en": {
+        "title": "Mark notes as read",
+        "text": "{0}Tick the notes, {1}then click Mark ticked as read. Mark ticked as unread does the opposite. Only your own read status changes: no comment is added, and observers can use it too.",
+        "q": "How do I mark many notes as read, or as unread?"
+      },
+      "es": {
+        "title": "Marcar notas como leídas",
+        "text": "{0}Marque las notas {1}y haga clic en Marcar las marcadas como leídas. Marcar las marcadas como no leídas hace lo contrario. Solo cambia su propio estado de lectura: no se añade ningún comentario, y los observadores también pueden usarlo.",
+        "q": "¿Cómo marco muchas notas como leídas o no leídas?"
+      },
+      "fr": {
+        "title": "Marquer des notes comme lues",
+        "text": "{0}Cochez les notes, {1}puis cliquez sur Marquer les cochées comme lues. Marquer les cochées comme non lues fait l'inverse. Seul votre propre statut de lecture change : aucun commentaire n'est ajouté, et les observateurs peuvent aussi l'utiliser.",
+        "q": "Comment marquer de nombreuses notes comme lues ou non lues ?"
+      }
+    },
+    {
+      "id": "s03d_marked",
+      "en": {
+        "title": "Marked as read",
+        "text": "{0}The results list the notes marked as read, {1}and the list of unread notes is now empty. Resolving or assigning a note also marks it as read, since you read it to decide."
+      },
+      "es": {
+        "title": "Marcadas como leídas",
+        "text": "{0}Los resultados indican las notas marcadas como leídas, {1}y la lista de notas no leídas queda vacía. Al resolver o asignar una nota, también queda marcada como leída, porque usted la leyó para decidir."
+      },
+      "fr": {
+        "title": "Marquées comme lues",
+        "text": "{0}Les résultats indiquent les notes marquées comme lues, {1}et la liste des notes non lues est maintenant vide. Résoudre ou attribuer une note la marque aussi comme lue, puisque vous l'avez lue pour décider."
+      }
+    },
+    {
+      "id": "s04_tag",
+      "en": {
+        "title": "Filter by tag",
+        "text": "{0}The Tag filter shows only the notes with one tag. Choosing Conflict finds {1}the conflict notes that Send and Receive left in the project.",
+        "q": "How do I find the conflict notes, or notes with a certain tag?"
+      },
+      "es": {
+        "title": "Filtrar por etiqueta",
+        "text": "{0}El filtro Etiqueta muestra solo las notas con una etiqueta. Al elegir Conflicto se ven {1}las notas de conflicto que Enviar y recibir dejó en el proyecto.",
+        "q": "¿Cómo encuentro las notas de conflicto, o las notas con cierta etiqueta?"
+      },
+      "fr": {
+        "title": "Filtrer par étiquette",
+        "text": "{0}Le filtre Étiquette n'affiche que les notes qui portent une étiquette. En choisissant Conflit, on trouve {1}les notes de conflit qu'Envoyer/Recevoir a laissées dans le projet.",
+        "q": "Comment trouver les notes de conflit, ou les notes qui ont une certaine étiquette ?"
+      }
+    },
+    {
+      "id": "s05_filters",
+      "en": {
+        "title": "Combine filters",
+        "text": "Filters can be combined. {0}Here, we list only the notes created by Luis Revisor.",
+        "q": "How do I combine filters, such as author and words?"
+      },
+      "es": {
+        "title": "Combine filtros",
+        "text": "Los filtros se pueden combinar. {0}Aquí mostramos solo las notas creadas por Luis Revisor.",
+        "q": "¿Cómo combino filtros, como autor y palabras?"
+      },
+      "fr": {
+        "title": "Combiner les filtres",
+        "text": "Les filtres peuvent se combiner. {0}Ici, nous n'affichons que les notes créées par Luis Revisor.",
+        "q": "Comment combiner des filtres, comme l'auteur et des mots ?"
+      }
+    },
+    {
+      "id": "s05b_words",
+      "en": {
+        "title": "Add a word",
+        "text": "{0}Then we add the word revisar, so only his notes that contain it are listed. {1}The bold line at the top always says which filters are in effect. {2}Hide filters gives the list more room."
+      },
+      "es": {
+        "title": "Añadir una palabra",
+        "text": "{0}Luego añadimos la palabra revisar, así que solo se muestran sus notas que la contienen. {1}La línea en negrita de arriba siempre indica qué filtros están en uso. {2}Ocultar filtros deja más espacio para la lista."
+      },
+      "fr": {
+        "title": "Ajouter un mot",
+        "text": "{0}Puis nous ajoutons le mot revisar : seules ses notes qui le contiennent sont affichées. {1}La ligne en gras, en haut, indique toujours les filtres en vigueur. {2}Masquer les filtres donne plus de place à la liste."
+      }
+    },
+    {
+      "id": "s06_hide",
+      "en": {
+        "title": "Filters hidden",
+        "text": "Now the list has more room. {1}The line beside the button still shows the filters in effect, {0}and Show filters brings them back. The window remembers this choice."
+      },
+      "es": {
+        "title": "Filtros ocultos",
+        "text": "Ahora la lista tiene más espacio. {1}La línea junto al botón sigue mostrando los filtros en uso, {0}y Mostrar filtros los vuelve a mostrar. La ventana recuerda esta elección."
+      },
+      "fr": {
+        "title": "Filtres masqués",
+        "text": "La liste a maintenant plus de place. {1}La ligne à côté du bouton indique toujours les filtres en vigueur, {0}et Afficher les filtres les fait réapparaître. La fenêtre se souvient de ce choix."
+      }
+    },
+    {
+      "id": "s07_tick",
+      "en": {
+        "title": "Tick the notes to change",
+        "text": "Back in Mark 2, {0}tick the notes you want to change. Only notes that are listed and ticked are ever changed. {1}The comments of the current note are shown below the list.",
+        "q": "How do I choose which notes to change?"
+      },
+      "es": {
+        "title": "Marque las notas que quiere cambiar",
+        "text": "De vuelta en Marcos 2, {0}marque las notas que quiere cambiar. Solo se cambian las notas mostradas y marcadas. {1}Los comentarios de la nota actual se ven debajo de la lista.",
+        "q": "¿Cómo elijo qué notas cambiar?"
+      },
+      "fr": {
+        "title": "Cochez les notes à modifier",
+        "text": "De retour dans Marc 2, {0}cochez les notes que vous voulez modifier. Seules les notes affichées et cochées sont modifiées. {1}Les commentaires de la note actuelle s'affichent sous la liste.",
+        "q": "Comment choisir les notes à modifier ?"
+      }
+    },
+    {
+      "id": "s08_resolve",
+      "en": {
+        "title": "Resolve, with an optional comment",
+        "text": "{0}Type a comment if you want one, then {1}click Resolve ticked. The tool asks before it changes anything.",
+        "q": "How do I resolve many notes at once?"
+      },
+      "es": {
+        "title": "Resolver, con un comentario opcional",
+        "text": "{0}Escriba un comentario si lo desea y {1}haga clic en Resolver marcadas. La herramienta pregunta antes de cambiar algo.",
+        "q": "¿Cómo resuelvo muchas notas a la vez?"
+      },
+      "fr": {
+        "title": "Résoudre, avec un commentaire facultatif",
+        "text": "{0}Tapez un commentaire si vous le souhaitez, puis {1}cliquez sur Résoudre les cochées. L'outil demande confirmation avant de modifier quoi que ce soit.",
+        "q": "Comment résoudre de nombreuses notes à la fois ?"
+      }
+    },
+    {
+      "id": "s09_resolved",
+      "en": {
+        "title": "Done, and checked",
+        "text": "Each ticked note gets the comment and is marked resolved. The notes are read again to check the change, {0}the results say what was done, {1}and only three unresolved notes are left."
+      },
+      "es": {
+        "title": "Hecho y comprobado",
+        "text": "Cada nota marcada recibe el comentario y queda resuelta. Las notas se leen de nuevo para comprobar el cambio, {0}los resultados dicen lo que se hizo, {1}y solo quedan tres notas sin resolver."
+      },
+      "fr": {
+        "title": "Fait, et vérifié",
+        "text": "Chaque note cochée reçoit le commentaire et est marquée comme résolue. Les notes sont relues pour vérifier le changement, {0}les résultats indiquent ce qui a été fait, {1}et il ne reste que trois notes non résolues."
+      }
+    },
+    {
+      "id": "s10_assign",
+      "en": {
+        "title": "Assign notes to someone",
+        "text": "{0}Tick all listed ticks every note in the list. {1}Choose a person, the Team, or nobody, then {2}click Assign ticked. {1}The list offers only people still active in the project.",
+        "q": "How do I assign many notes to someone at once?"
+      },
+      "es": {
+        "title": "Asignar notas a alguien",
+        "text": "{0}Marcar todas las mostradas marca todas las notas de la lista. {1}Elija una persona, el Equipo o nadie, y {2}haga clic en Asignar marcadas. {1}La lista ofrece solo a las personas que siguen activas en el proyecto.",
+        "q": "¿Cómo asigno muchas notas a alguien a la vez?"
+      },
+      "fr": {
+        "title": "Attribuer des notes à quelqu'un",
+        "text": "{0}Cocher toutes les notes affichées coche chaque note de la liste. {1}Choisissez une personne, l'Équipe ou personne, puis {2}cliquez sur Attribuer les cochées. {1}La liste ne propose que les personnes encore actives dans le projet.",
+        "q": "Comment attribuer de nombreuses notes à quelqu'un en une fois ?"
+      }
+    },
+    {
+      "id": "s11_assigned",
+      "en": {
+        "title": "Assigned",
+        "text": "{0}The notes are now assigned to Rosa Admin. {1}Without a typed comment, the tool adds the comment: Assigned to Rosa Admin."
+      },
+      "es": {
+        "title": "Asignadas",
+        "text": "{0}Las notas quedan asignadas a Rosa Admin. {1}Sin un comentario escrito, la herramienta añade el comentario: Asignada a Rosa Admin."
+      },
+      "fr": {
+        "title": "Attribuées",
+        "text": "{0}Les notes sont maintenant attribuées à Rosa Admin. {1}Sans commentaire tapé, l'outil ajoute le commentaire : Attribuée à Rosa Admin."
+      }
+    },
+    {
+      "id": "s12_goto",
+      "en": {
+        "title": "Go to the verse",
+        "text": "Double-click a note, or {0}click Go to in Paratext, to open its verse in Paratext's text window.",
+        "q": "How do I go to a note's verse in Paratext?"
+      },
+      "es": {
+        "title": "Ir al versículo",
+        "text": "Haga doble clic en una nota, o {0}en Ir al versículo en Paratext, para abrir su versículo en la ventana de texto de Paratext.",
+        "q": "¿Cómo voy al versículo de una nota en Paratext?"
+      },
+      "fr": {
+        "title": "Aller au verset",
+        "text": "Double-cliquez sur une note, ou {0}cliquez sur Aller au verset dans Paratext, pour ouvrir son verset dans la fenêtre de texte de Paratext.",
+        "q": "Comment aller au verset d'une note dans Paratext ?"
+      }
+    },
+    {
+      "id": "sec_install",
+      "en": {
+        "title": "Installing the tool",
+        "text": "Installing the tool.",
+        "q": "How do I download and install the tool?"
+      },
+      "es": {
+        "title": "Instalar la herramienta",
+        "text": "Cómo instalar la herramienta.",
+        "q": "¿Cómo descargo e instalo la herramienta?"
+      },
+      "fr": {
+        "title": "Installer l'outil",
+        "text": "Comment installer l'outil.",
+        "q": "Comment télécharger et installer l'outil ?"
+      }
+    },
+    {
+      "id": "i5_ready",
+      "en": {
+        "title": "Ready to use",
+        "text": "Start Paratext again. {1,0}Bulk Note Editing is now on the Tools menu."
+      },
+      "es": {
+        "title": "Listo para usar",
+        "text": "Vuelva a abrir Paratext. {1,0}Edición de notas en lote ya está en el menú Herramientas."
+      },
+      "fr": {
+        "title": "Prêt à l'emploi",
+        "text": "Redémarrez Paratext. {1,0}Modification de notes en lot se trouve maintenant dans le menu Outils."
+      }
+    },
+    {
+      "id": "end",
+      "en": {
+        "title": "Bulk Note Editing",
+        "sub": "No delete  ·  Every change is a new comment  ·  Observers can only look",
+        "text": "The tool never deletes a note. Every change is a new comment, so each note's history stays complete. People who are observers in the project can list the notes but not change them."
+      },
+      "es": {
+        "title": "Edición de notas en lote",
+        "sub": "No borra  ·  Cada cambio es un comentario nuevo  ·  Los observadores solo pueden mirar",
+        "text": "La herramienta nunca borra una nota. Cada cambio es un comentario nuevo, así que la historia de cada nota queda completa. Quienes son observadores en el proyecto pueden ver las notas, pero no cambiarlas."
+      },
+      "fr": {
+        "title": "Modification de notes en lot",
+        "sub": "Aucune suppression  ·  Chaque modification est un nouveau commentaire  ·  Les observateurs peuvent seulement consulter",
+        "text": "L'outil ne supprime jamais une note. Chaque modification est un nouveau commentaire, donc l'historique de chaque note reste complet. Les observateurs du projet peuvent voir les notes, mais pas les modifier."
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+﻿Edición de notas en lote es un complemento gratuito para Paratext 9 que muestra las notas de uno o varios proyectos y resuelve, asigna o marca como leídas muchas de ellas a la vez. Elija un versículo, un capítulo, un libro o el proyecto entero, y reduzca la lista por estado, leídas o no, autor, persona asignada, fecha, palabras o etiqueta (incluidas las notas de conflicto). Marque las notas que quiere y resuélvalas, con un comentario opcional, asígnelas a un miembro del equipo, o márquelas como leídas o no leídas. La herramienta nunca borra una nota: cada cambio es un comentario nuevo, así que la historia de cada nota queda completa.
+
+Descargue el complemento (BulkNotes.zip) de la carpeta Paratext Plugins:
+https://short.do/HgUb7T
+
+0:22 ¿Cómo abro Edición de notas en lote?
+0:40 ¿Cómo muestro las notas de varios proyectos a la vez?
+1:12 ¿Cómo muestro las notas de un versículo, un capítulo, un libro o todo el proyecto?
+1:25 ¿Qué significan los colores y la negrita de las filas?
+1:49 ¿Cómo encuentro las notas que aún no he leído?
+2:04 ¿Cómo marco muchas notas como leídas o no leídas?
+2:38 ¿Cómo encuentro las notas de conflicto, o las notas con cierta etiqueta?
+2:50 ¿Cómo combino filtros, como autor y palabras?
+3:30 ¿Cómo elijo qué notas cambiar?
+3:45 ¿Cómo resuelvo muchas notas a la vez?
+4:11 ¿Cómo asigno muchas notas a alguien a la vez?
+4:41 ¿Cómo voy al versículo de una nota en Paratext?
+4:52 ¿Cómo descargo e instalo la herramienta?
+
+Creado con Claude AI.
+Narración: voz generada por IA (Microsoft Azure AI Speech, voz "Jorge").
+Música: "Smile" de Bensound, © Bensound. Music: https://www.bensound.com

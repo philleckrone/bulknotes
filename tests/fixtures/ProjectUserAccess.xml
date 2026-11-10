@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectUserAccess PeerSharing="true">
+  <User UserName="Ana Consultora" FirstUser="true" UnregisteredUser="false">
+    <Role>Consultant</Role>
+    <AllBooks>true</AllBooks>
+    <Books />
+    <Permissions />
+    <AutomaticBooks />
+    <AutomaticPermissions />
+  </User>
+  <User UserName="Luis Revisor" FirstUser="false" UnregisteredUser="false">
+    <Role>TeamMember</Role>
+    <AllBooks>true</AllBooks>
+    <Books />
+    <Permissions />
+    <AutomaticBooks />
+    <AutomaticPermissions />
+  </User>
+  <User UserName="Rosa Admin" FirstUser="false" UnregisteredUser="false">
+    <Role>Administrator</Role>
+    <AllBooks>true</AllBooks>
+    <Books />
+    <Permissions />
+    <AutomaticBooks />
+    <AutomaticPermissions />
+  </User>
+  <User UserName="Pedro Antiguo" FirstUser="false" UnregisteredUser="false">
+    <Role>None</Role>
+    <AllBooks>true</AllBooks>
+    <Books />
+    <Permissions />
+    <AutomaticBooks />
+    <AutomaticPermissions />
+  </User>
+  <User UserName="Olga Observadora" FirstUser="false" UnregisteredUser="false">
+    <Role>Observer</Role>
+    <AllBooks>true</AllBooks>
+    <Books />
+    <Permissions />
+    <AutomaticBooks />
+    <AutomaticPermissions />
+  </User>
+  <User UserName="Marta Retirada" FirstUser="false" UnregisteredUser="false">
+    <Role>None</Role>
+    <AllBooks>true</AllBooks>
+    <Books />
+    <Permissions />
+    <AutomaticBooks />
+    <AutomaticPermissions />
+  </User>
+</ProjectUserAccess>

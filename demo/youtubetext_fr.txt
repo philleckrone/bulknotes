@@ -1,0 +1,22 @@
+﻿Modification de notes en lot est un module gratuit pour Paratext 9 qui affiche les notes d'un ou de plusieurs projets et en résout, attribue ou marque comme lues un grand nombre en une fois. Choisissez un verset, un chapitre, un livre ou le projet entier, puis réduisez la liste par statut, lues ou non, auteur, personne attribuée, date, mots ou étiquette (y compris les notes de conflit). Cochez les notes voulues, puis résolvez-les, avec un commentaire facultatif, attribuez-les à un membre de l'équipe, ou marquez-les comme lues ou non lues. L'outil ne supprime jamais une note : chaque modification est un nouveau commentaire, donc l'historique de chaque note reste complet.
+
+Téléchargez le module (BulkNotes.zip) depuis le dossier Paratext Plugins :
+https://short.do/HgUb7T
+
+0:19 Comment ouvrir Modification de notes en lot ?
+0:36 Comment afficher les notes de plusieurs projets à la fois ?
+1:04 Comment afficher les notes d'un verset, d'un chapitre, d'un livre ou de tout le projet ?
+1:16 Que signifient les couleurs et le gras des lignes ?
+1:35 Comment trouver les notes que je n'ai pas encore lues ?
+1:48 Comment marquer de nombreuses notes comme lues ou non lues ?
+2:15 Comment trouver les notes de conflit, ou les notes qui ont une certaine étiquette ?
+2:27 Comment combiner des filtres, comme l'auteur et des mots ?
+3:01 Comment choisir les notes à modifier ?
+3:15 Comment résoudre de nombreuses notes à la fois ?
+3:38 Comment attribuer de nombreuses notes à quelqu'un en une fois ?
+4:05 Comment aller au verset d'une note dans Paratext ?
+4:15 Comment télécharger et installer l'outil ?
+
+Créé avec Claude AI.
+Narration : voix générée par IA (Microsoft Azure AI Speech, voix « Rémy »).
+Musique : « Smile » de Bensound, © Bensound. Music: https://www.bensound.com

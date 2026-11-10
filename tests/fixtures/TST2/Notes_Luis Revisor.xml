@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommentList>
+  <Comment Thread="t202" User="Luis Revisor" VerseRef="MRK 2:5" Language="es" Date="2026-09-07T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Segundo proyecto: la coma.</p>
+    </Contents>
+    <TagAdded>2</TagAdded>
+  </Comment>
+</CommentList>

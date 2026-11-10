@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectUserAccess PeerSharing="true">
+  <User UserName="Beto Segundo" FirstUser="true" UnregisteredUser="false">
+    <Role>Consultant</Role>
+    <AllBooks>true</AllBooks>
+    <Books />
+    <Permissions />
+    <AutomaticBooks />
+    <AutomaticPermissions />
+  </User>
+  <User UserName="Luis Revisor" FirstUser="false" UnregisteredUser="false">
+    <Role>TeamMember</Role>
+    <AllBooks>true</AllBooks>
+    <Books />
+    <Permissions />
+    <AutomaticBooks />
+    <AutomaticPermissions />
+  </User>
+</ProjectUserAccess>

@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommentList>
+  <Comment Thread="bn02" User="Luis Revisor" VerseRef="MRK 2:3" Language="es" Date="2026-10-10T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status></Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Mejor "cuatro hombres".</p>
+    </Contents>
+  </Comment>
+  <Comment Thread="bn03" User="Luis Revisor" VerseRef="MRK 2:5" Language="es" Date="2026-09-20T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Falta la coma después de "hijo".</p>
+    </Contents>
+  </Comment>
+  <Comment Thread="bn05" User="Luis Revisor" VerseRef="MRK 2:10-12" Language="es" Date="2026-10-20T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Revisar el párrafo entero.</p>
+    </Contents>
+  </Comment>
+  <Comment Thread="bn07" User="Luis Revisor" VerseRef="MRK 3:1" Language="es" Date="2026-09-02T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Sinagoga con mayúscula?</p>
+    </Contents>
+    <TagRemoved>1</TagRemoved>
+  </Comment>
+  <Comment Thread="bn10" User="Luis Revisor" VerseRef="MRK 2:20" Language="es" Date="2026-07-02T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>done</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Corregido.</p>
+    </Contents>
+  </Comment>
+  <Comment Thread="bn12" User="Luis Revisor" VerseRef="ACT 2:1" Language="es" Date="2026-06-15T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <AssignedUser>Team</AssignedUser>
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Pentecostés.</p>
+    </Contents>
+  </Comment>
+  <Comment Thread="bn13" User="Luis Revisor" VerseRef="ACT 2:5" Language="es" Date="2026-06-20T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type>conflict</Type>
+    <ConflictType>verseText</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Conflicto de texto en el versículo.</p>
+    </Contents>
+    <TagAdded>2</TagAdded>
+  </Comment>
+  <Comment Thread="BT_logos" User="Luis Revisor" VerseRef="ACT 2:12" Language="es" Date="2026-06-23T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Revisar la traducción del término.</p>
+    </Contents>
+    <BiblicalTermId>λόγος</BiblicalTermId>
+    <TagAdded>-3</TagAdded>
+  </Comment>
+  <Comment Thread="BT_logos" User="Luis Revisor" VerseRef="ACT 2:12" Language="es" Date="2026-06-24T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>done</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents />
+  </Comment>
+  <Comment Thread="bn16" User="Luis Revisor" VerseRef="ACT 2:15" Language="es" Date="2026-06-25T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type>conflict</Type>
+    <ConflictType>verseText</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Otro conflicto.</p>
+    </Contents>
+  </Comment>
+</CommentList>

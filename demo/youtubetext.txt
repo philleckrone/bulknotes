@@ -1,0 +1,24 @@
+﻿Bulk Note Editing is a free Paratext 9 plugin that lists the notes of one or more projects and resolves, assigns or marks as read many of them at once. Choose a verse, a chapter, a book or the whole project, then narrow the list by status, read or unread, author, assigned person, date, words or tag (including conflict notes). Tick the notes you want, then resolve them, with an optional comment, assign them to a team member, or mark them as read or unread. The tool never deletes a note: every change is a new comment, so each note's history stays complete.
+
+Download Install_Phils_tools.exe from the Paratext Plugins folder, and tick Bulk Note Editing in it:
+https://short.do/HgUb7T
+
+0:20 How do I open Bulk Note Editing?
+0:37 How do I list the notes of several projects at once?
+1:06 How do I list the notes of a verse, a chapter, a book or the whole project?
+1:18 What do the row colours and bold rows mean?
+1:37 How do I find notes I have not read yet?
+1:51 How do I mark many notes as read, or as unread?
+2:18 How do I find the conflict notes, or notes with a certain tag?
+2:29 How do I combine filters, such as author and words?
+3:05 How do I choose which notes to change?
+3:19 How do I resolve many notes at once?
+3:42 How do I assign many notes to someone at once?
+4:08 How do I go to a note's verse in Paratext?
+4:17 How do I download and install the tool?
+
+Created with Claude AI.
+Narration: AI-generated voice (Microsoft Azure AI Speech, voice "Jenny").
+Music from Free To Use
+Source: https://freetouse.com/music
+Coconut Kind of Love by Aetheric

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommentList>
+  <Comment Thread="t201" User="Beto Segundo" VerseRef="MRK 2:3" Language="es" Date="2026-09-06T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Segundo proyecto: ¿cuatro hombres?</p>
+    </Contents>
+    <TagAdded>5</TagAdded>
+  </Comment>
+  <Comment Thread="t203" User="Beto Segundo" VerseRef="MRK 3:1" Language="es" Date="2026-09-08T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Segundo proyecto: sinagoga.</p>
+    </Contents>
+  </Comment>
+  <Comment Thread="t203" User="Beto Segundo" VerseRef="MRK 3:1" Language="es" Date="2026-09-09T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>done</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents />
+  </Comment>
+  <Comment Thread="t204" User="Beto Segundo" VerseRef="ACT 2:1" Language="es" Date="2026-09-10T09:00:00.0000000-05:00">
+    <SelectedText />
+    <StartPosition>0</StartPosition>
+    <ContextBefore />
+    <ContextAfter />
+    <Status>todo</Status>
+    <Type></Type>
+    <ConflictType>unknownConflictType</ConflictType>
+    <Verse />
+    <HideInTextWindow>false</HideInTextWindow>
+    <Contents>
+      <p>Segundo proyecto: Pentecostés.</p>
+    </Contents>
+  </Comment>
+</CommentList>
